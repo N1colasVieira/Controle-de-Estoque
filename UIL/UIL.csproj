@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{90229BB2-FCED-4F76-967D-22DEABE46974}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UIL</RootNamespace>
+    <AssemblyName>UIL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BCrypt.Net, Version=0.1.4141.31969, Culture=neutral, PublicKeyToken=f3bc8f8c31beeb49, processorArchitecture=MSIL">
+      <HintPath>..\packages\BCrypt.Net.0.1.0\lib\net35\BCrypt.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ICadastroItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ICadastroItem.Designer.cs">
+      <DependentUpon>ICadastroItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ICadastroUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ICadastroUsuario.Designer.cs">
+      <DependentUpon>ICadastroUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IEstoque.Designer.cs">
+      <DependentUpon>IEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ILogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ILogin.Designer.cs">
+      <DependentUpon>ILogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IMensagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMensagem.Designer.cs">
+      <DependentUpon>IMensagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="INovaSenha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="INovaSenha.Designer.cs">
+      <DependentUpon>INovaSenha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IRequisicao_Reposicao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IRequisicao_Reposicao.Designer.cs">
+      <DependentUpon>IRequisicao_Reposicao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ICadastroItem.resx">
+      <DependentUpon>ICadastroItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ICadastroUsuario.resx">
+      <DependentUpon>ICadastroUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IEstoque.resx">
+      <DependentUpon>IEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ILogin.resx">
+      <DependentUpon>ILogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMensagem.resx">
+      <DependentUpon>IMensagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="INovaSenha.resx">
+      <DependentUpon>INovaSenha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IRequisicao_Reposicao.resx">
+      <DependentUpon>IRequisicao_Reposicao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{d50b5879-c4ed-4afb-9569-c52130ce1be1}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{ca939e10-ab99-4b4a-809f-a7b453196dcb}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MODEL\MODEL.csproj">
+      <Project>{b6df1b4d-198f-4dfc-b2dd-8a28e119f8f6}</Project>
+      <Name>MODEL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Imagens\btnInsert_focus.png" />
+    <Content Include="Imagens\btnInsert_normal.png" />
+    <Content Include="Imagens\btnLogin_focus.png" />
+    <Content Include="Imagens\btnLogin_normal.png" />
+    <Content Include="Imagens\btnSave_focus.png" />
+    <Content Include="Imagens\btnSave_normal.png" />
+    <Content Include="Imagens\btnSearch_focus.png" />
+    <Content Include="Imagens\btnSearch_normal.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

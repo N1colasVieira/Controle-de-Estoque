@@ -1,0 +1,17 @@
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\BLL.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\BLL.pdb
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\DAL.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\MODEL.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\DAL.pdb
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\MODEL.pdb
+C:\Users\n1col\source\repos\orestes_biagi\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\n1col\source\repos\orestes_biagi\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\n1col\source\repos\orestes_biagi\BLL\obj\Debug\BLL.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\obj\Debug\BLL.pdb
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\MySql.Data.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\Google.Protobuf.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\Renci.SshNet.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\MySql.Data.xml
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\BCrypt.Net.dll
+C:\Users\n1col\source\repos\orestes_biagi\BLL\bin\Debug\BCrypt.Net.xml
