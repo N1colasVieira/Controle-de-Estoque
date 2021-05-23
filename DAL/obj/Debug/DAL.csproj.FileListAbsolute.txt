@@ -13,3 +13,26 @@ C:\Users\n1col\source\repos\orestes_biagi\DAL\obj\Debug\DAL.dll
 C:\Users\n1col\source\repos\orestes_biagi\DAL\obj\Debug\DAL.pdb
 C:\Users\n1col\source\repos\orestes_biagi\DAL\bin\Debug\BCrypt.Net.dll
 C:\Users\n1col\source\repos\orestes_biagi\DAL\bin\Debug\BCrypt.Net.xml
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\obj\Debug\DAL.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\obj\Debug\DAL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\DAL.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\DAL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\BCrypt.Net.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\MODEL.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\MySql.Data.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\Google.Protobuf.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\Zstandard.Net.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\BouncyCastle.Crypto.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\Ubiety.Dns.Core.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\System.Memory.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\System.Buffers.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\K4os.Compression.LZ4.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\K4os.Hash.xxHash.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\System.Numerics.Vectors.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\MODEL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\BCrypt.Net.xml
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\bin\Debug\MySql.Data.xml
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\DAL\obj\Debug\DAL.csproj.CopyComplete

@@ -49,70 +49,70 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ICadastroItem.cs">
+    <Compile Include="CadastroItem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ICadastroItem.Designer.cs">
-      <DependentUpon>ICadastroItem.cs</DependentUpon>
+    <Compile Include="CadastroItem.Designer.cs">
+      <DependentUpon>CadastroItem.cs</DependentUpon>
     </Compile>
-    <Compile Include="ICadastroUsuario.cs">
+    <Compile Include="CadastroUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ICadastroUsuario.Designer.cs">
-      <DependentUpon>ICadastroUsuario.cs</DependentUpon>
+    <Compile Include="CadastroUsuario.Designer.cs">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
     </Compile>
-    <Compile Include="IEstoque.cs">
+    <Compile Include="Estoque.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="IEstoque.Designer.cs">
-      <DependentUpon>IEstoque.cs</DependentUpon>
+    <Compile Include="Estoque.Designer.cs">
+      <DependentUpon>Estoque.cs</DependentUpon>
     </Compile>
-    <Compile Include="ILogin.cs">
+    <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ILogin.Designer.cs">
-      <DependentUpon>ILogin.cs</DependentUpon>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
-    <Compile Include="IMensagem.cs">
+    <Compile Include="CaixaDeMensagem.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="IMensagem.Designer.cs">
-      <DependentUpon>IMensagem.cs</DependentUpon>
+    <Compile Include="CaixaDeMensagem.Designer.cs">
+      <DependentUpon>CaixaDeMensagem.cs</DependentUpon>
     </Compile>
-    <Compile Include="INovaSenha.cs">
+    <Compile Include="NovaSenha.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="INovaSenha.Designer.cs">
-      <DependentUpon>INovaSenha.cs</DependentUpon>
+    <Compile Include="NovaSenha.Designer.cs">
+      <DependentUpon>NovaSenha.cs</DependentUpon>
     </Compile>
-    <Compile Include="IRequisicao_Reposicao.cs">
+    <Compile Include="Requisicao.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="IRequisicao_Reposicao.Designer.cs">
-      <DependentUpon>IRequisicao_Reposicao.cs</DependentUpon>
+    <Compile Include="Requisicao.Designer.cs">
+      <DependentUpon>Requisicao.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="ICadastroItem.resx">
-      <DependentUpon>ICadastroItem.cs</DependentUpon>
+    <EmbeddedResource Include="CadastroItem.resx">
+      <DependentUpon>CadastroItem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ICadastroUsuario.resx">
-      <DependentUpon>ICadastroUsuario.cs</DependentUpon>
+    <EmbeddedResource Include="CadastroUsuario.resx">
+      <DependentUpon>CadastroUsuario.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="IEstoque.resx">
-      <DependentUpon>IEstoque.cs</DependentUpon>
+    <EmbeddedResource Include="Estoque.resx">
+      <DependentUpon>Estoque.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ILogin.resx">
-      <DependentUpon>ILogin.cs</DependentUpon>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="IMensagem.resx">
-      <DependentUpon>IMensagem.cs</DependentUpon>
+    <EmbeddedResource Include="CaixaDeMensagem.resx">
+      <DependentUpon>CaixaDeMensagem.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="INovaSenha.resx">
-      <DependentUpon>INovaSenha.cs</DependentUpon>
+    <EmbeddedResource Include="NovaSenha.resx">
+      <DependentUpon>NovaSenha.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="IRequisicao_Reposicao.resx">
-      <DependentUpon>IRequisicao_Reposicao.cs</DependentUpon>
+    <EmbeddedResource Include="Requisicao.resx">
+      <DependentUpon>Requisicao.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

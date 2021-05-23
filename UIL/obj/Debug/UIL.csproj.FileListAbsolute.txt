@@ -27,3 +27,41 @@ C:\Users\n1col\source\repos\orestes_biagi\UIL\obj\Debug\UIL.INovaSenha.resources
 C:\Users\n1col\source\repos\orestes_biagi\UIL\obj\Debug\UIL.ICadastroItem.resources
 C:\Users\n1col\source\repos\orestes_biagi\UIL\obj\Debug\UIL.IMensagem.resources
 C:\Users\n1col\source\repos\orestes_biagi\UIL\obj\Debug\UIL.IRequisicao_Reposicao.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.csprojAssemblyReference.cache
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.CadastroItem.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.CadastroUsuario.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.Estoque.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.Login.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.CaixaDeMensagem.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.NovaSenha.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.Properties.Resources.resources
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.csproj.GenerateResource.cache
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.exe
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.exe.config
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\UIL.exe.config
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\UIL.exe
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\UIL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\BCrypt.Net.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\BLL.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\DAL.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\MODEL.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\MySql.Data.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\Google.Protobuf.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\Zstandard.Net.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\K4os.Compression.LZ4.Streams.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\BouncyCastle.Crypto.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\Ubiety.Dns.Core.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\System.Memory.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\System.Buffers.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\K4os.Compression.LZ4.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\K4os.Hash.xxHash.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\System.Numerics.Vectors.dll
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\BLL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\DAL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\MODEL.pdb
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\BCrypt.Net.xml
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\bin\Debug\MySql.Data.xml
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.csproj.CopyComplete
+I:\Projeto Orestes\ProjetoEstoque\ProjetoEstoque\UIL\obj\Debug\UIL.Requisicao.resources
